@@ -1,0 +1,2 @@
+# Summary of iProphet DDA-MS peptide identification results in long format
+Basic R script to filter, summarize and visualize TPP/iProphet-based DDA-MS bottom-up proteomics results, using the Mayu FDR estimation table for filtering the results to target FDR values
